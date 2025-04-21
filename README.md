@@ -42,8 +42,8 @@ mindmap
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?LightZirconite=LightZirconite&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?LightZirconite=LightZirconite&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LightZirconite&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LightZirconite&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
 ## 🔥 Streak Stats
