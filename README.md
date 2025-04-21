@@ -95,16 +95,10 @@ mindmap
 ## 🎧 Currently Listening To
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31fsjiytgt7qzgkwpvqrd3gxd42u&cover_image=true&theme=default&show_offline=false&background_color=121212" alt="Spotify Currently Playing" />
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fsjiytgt7qzgkwpvqrd3gxd42u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 </div>
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Title of your first blog post](https://your-blog.com/post1)
-- [Title of your second blog post](https://your-blog.com/post2)
-- [Title of your third blog post](https://your-blog.com/post3)
-<!-- BLOG-POST-LIST:END -->
 
 ## 📫 How to reach me
 
