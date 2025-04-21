@@ -1,19 +1,31 @@
-# 👋 Hello, World! I'm Light
+# 👋 Hello, World! I'm LightZirconite
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/123307773?s=400&u=d1546b8658fed0393ca6de479cf6b1e941631105&v=4" alt="banner image">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=LightZirconite&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Developer%20|%20Creator%20|%20Innovator&descAlignY=51&descAlign=62" alt="banner image">
 </div>
 
 <p align="center">
-  <a href="https://gr.crazays.fr"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="https://discord.com/users/683712256243925066"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"></a>
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=LightZirconite&style=flat-square&color=blueviolet" alt="profile views">
+</div>
 
 ## 💫 About Me
 
 > *"Quote that represents your philosophy or approach to coding"*
 
-I'm a computer enthusiast based in Senlis FR, specializing in Server Web. With 3 of experience, I enjoy tackling complex problems and transforming ideas into elegant solutions.
+I'm a passionate [Your Role] based in [Your Location], focusing on [Your Specialties]. With [X years] of experience, I enjoy tackling complex problems and turning ideas into elegant solutions.
+
+- 🔭 I'm currently working on **[Project Name]**
+- 🌱 I'm currently learning **[Technology/Framework]**
+- 👯 I'm looking to collaborate on **[Type of Projects]**
+- 💬 Ask me about **[Your Expertise Areas]**
+- ⚡ Fun fact: **[Something Interesting About You]**
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM0MDQwMGVjM2I2ZmJmNjk4YzBiZTBhNDFmOGM0OGE0MWVlZWZmYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 Skills & Technologies
 
@@ -39,10 +51,14 @@ mindmap
 
 </div>
 
+<div align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=3&theme=github_dark&line1=react,react,61DAFB;next.js,next.js,ffffff;vue.js,vue.js,4FC08D;&line2=typescript,typescript,3178C6;javascript,javascript,F7DF1E;python,python,3776AB;&line3=tailwindcss,tailwindcss,06B6D4;sass,sass,CC6699;figma,figma,F24E1E;" alt="Tech Stack" />
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LightZirconite&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LightZirconite&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LightZirconite&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
@@ -74,7 +90,7 @@ mindmap
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LightZirconite&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LightZirconite&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Contribution Graph
@@ -82,12 +98,11 @@ mindmap
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LightZirconite&theme=react-dark" alt="Activity Graph" />
 </div>
-<!--END_SECTION:activity-->
 
 ## 🎧 Currently Listening To
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fsjiytgt7qzgkwpvqrd3gxd42u" alt="Spotify Recently Played" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fsjiytgt7qzgkwpvqrd3gxd42u&count=3" alt="Spotify Recently Played" />
 </div>
 
 ## 📝 Latest Blog Posts
@@ -104,20 +119,24 @@ mindmap
 
 | <img src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" width="40" height="40" alt="Discord" /> |
 |:---:|
-| [Discord](https://discord.com/users/your-discord-id) |
+| [Discord](https://discord.com/users/683712256243925066) |
 
 </div>
 
 ## 🌐 Visitors Count
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/yourusername/count.svg" alt="Visitors Count" />
+  <img src="https://profile-counter.glitch.me/LightZirconite/count.svg" alt="Visitors Count" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LightZirconite/LightZirconite/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="custom footer graphics">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" alt="custom footer graphics">
   <br>
   <i>Thanks for visiting my profile! Let's connect and build amazing things together.</i>
 </div>
