@@ -5,8 +5,8 @@
 </div>
 
 <p align="center">
-  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
-  <a href="https://discord.com/users/your-discord-id"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"></a>
+  <a href="https://gr.crazays.fr"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://discord.com/users/683712256243925066"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"></a>
 </p>
 
 ## 💫 About Me
