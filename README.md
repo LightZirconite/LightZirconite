@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://gr.crazys.fr"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="https://discord.com/users/683712256243925066"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"></a>
 </p>
 
@@ -18,13 +18,7 @@
 
 > *"Quote that represents your philosophy or approach to coding"*
 
-I'm a passionate [Your Role] based in [Your Location], focusing on [Your Specialties]. With [X years] of experience, I enjoy tackling complex problems and turning ideas into elegant solutions.
-
-- 🔭 I'm currently working on **[Project Name]**
-- 🌱 I'm currently learning **[Technology/Framework]**
-- 👯 I'm looking to collaborate on **[Type of Projects]**
-- 💬 Ask me about **[Your Expertise Areas]**
-- ⚡ Fun fact: **[Something Interesting About You]**
+I'm a computer enthusiast based in Senlis, FR, specializing in Linux. With 3 years of experience, I enjoy tackling complex problems and transforming ideas into elegant solutions.
 
 ## 🚀 Skills & Technologies
 
