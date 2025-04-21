@@ -55,47 +55,39 @@ mindmap
 ## 📌 Pinned Projects
 
 <div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical" alt="Project 1" />
+  <a href="https://github.com/LightZirconite/project1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LightZirconite&repo=project1&theme=radical" alt="Project 1" />
   </a>
-  <a href="https://github.com/yourusername/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical" alt="Project 2" />
+  <a href="https://github.com/LightZirconite/project2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LightZirconite&repo=project2&theme=radical" alt="Project 2" />
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/yourusername/project3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project3&theme=radical" alt="Project 3" />
+  <a href="https://github.com/LightZirconite/project3">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LightZirconite&repo=project3&theme=radical" alt="Project 3" />
   </a>
-  <a href="https://github.com/yourusername/project4">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project4&theme=radical" alt="Project 4" />
+  <a href="https://github.com/LightZirconite/project4">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LightZirconite&repo=project4&theme=radical" alt="Project 4" />
   </a>
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LightZirconite&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LightZirconite&theme=react-dark" alt="Activity Graph" />
 </div>
-
-## ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/yourusername/repo) in [yourusername/repo]
-2. 💪 Opened PR [#123](https://github.com/yourusername/repo) in [yourusername/repo]
-3. 🗣 Commented on [#15](https://github.com/yourusername/repo) in [yourusername/repo]
-4. 🐛 Fixed bug [#7](https://github.com/yourusername/repo) in [yourusername/repo]
 <!--END_SECTION:activity-->
 
 ## 🎧 Currently Listening To
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your-spotify-user-id" alt="Spotify Recently Played" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fsjiytgt7qzgkwpvqrd3gxd42u" alt="Spotify Recently Played" />
 </div>
 
 ## 📝 Latest Blog Posts
