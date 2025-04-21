@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm LightZirconite
+# 👋 Hello, World! I'm [LightZirconite](https://git.justw.tf/Light-Zirconite/Light-Zirconite/src/branch/main/README.md)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=LightZirconite&fontSize=80&animation=fadeIn&fontAlignY=38" alt="banner image">
