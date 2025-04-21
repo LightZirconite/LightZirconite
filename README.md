@@ -13,13 +13,7 @@
 
 > *"Quote that represents your philosophy or approach to coding"*
 
-I'm a passionate [Your Role] based in [Your Location], focusing on [Your Specialties]. With [X years] of experience, I enjoy tackling complex problems and turning ideas into elegant solutions.
-
-- 🔭 I'm currently working on **[Project Name]**
-- 🌱 I'm currently learning **[Technology/Framework]**
-- 👯 I'm looking to collaborate on **[Type of Projects]**
-- 💬 Ask me about **[Your Expertise Areas]**
-- ⚡ Fun fact: **[Something Interesting About You]**
+I'm a computer enthusiast based in Senlis FR, specializing in Server Web. With 3 of experience, I enjoy tackling complex problems and transforming ideas into elegant solutions.
 
 ## 🚀 Skills & Technologies
 
@@ -29,24 +23,17 @@ I'm a passionate [Your Role] based in [Your Location], focusing on [Your Special
 mindmap
   root((My Skills))
     Languages
-      JavaScript
-      TypeScript
       Python
-      Go
     Frontend
-      React
-      Vue.js
-      CSS/SCSS
-      Tailwind
+      css
     Backend
       Node.js
-      Express
-      Django
       SQL
     Tools
       Git
-      Docker
-      AWS
+      Fedora
+      Discord
+      OVH
       CI/CD
 ```
 
@@ -55,14 +42,14 @@ mindmap
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?LightZirconite=LightZirconite&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?LightZirconite=LightZirconite&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LightZirconite&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 📌 Pinned Projects
