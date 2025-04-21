@@ -1,14 +1,11 @@
-# 👋 Hello, World! I'm [Your Name]
+# 👋 Hello, World! I'm Light
 
 <div align="center">
   <img src="/api/placeholder/850/200" alt="banner image">
 </div>
 
 <p align="center">
-  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-d14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="https://gr.crazys.fr"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
 </p>
 
 ## 💫 About Me
