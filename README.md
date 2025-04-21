@@ -1,7 +1,7 @@
-# 👋 Hello, World! I'm [Your Name]
+# 👋 Hello, World! I'm Light
 
 <div align="center">
-  <img src="https://github-profile-banner-image-url.png" alt="banner image">
+  <img src="https://avatars.githubusercontent.com/u/123307773?s=400&u=d1546b8658fed0393ca6de479cf6b1e941631105&v=4" alt="banner image">
 </div>
 
 <p align="center">
