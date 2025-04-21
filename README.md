@@ -60,21 +60,21 @@ mindmap
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LightZirconite&theme=radical" alt="GitHub Streak" />
 </div>
 
-## 📌 Pinned Projects
+## 📌 Pinned Projects In Public
 
 <div align="center">
-  <a href="https://github.com/LightZirconite/project1">
+  <a href="https://github.com/LightZirconite/ListeFichiersDossiersColler">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LightZirconite&repo=project1&theme=radical" alt="Project 1" />
   </a>
-  <a href="https://github.com/LightZirconite/project2">
+  <a href="https://github.com/LightZirconite/LightZirconite">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LightZirconite&repo=project2&theme=radical" alt="Project 2" />
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/LightZirconite/project3">
+  <a href="https://github.com/LightZirconite/Nothing">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LightZirconite&repo=project3&theme=radical" alt="Project 3" />
   </a>
-  <a href="https://github.com/LightZirconite/project4">
+  <a href="https://github.com/LightZirconite/Nothing">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LightZirconite&repo=project4&theme=radical" alt="Project 4" />
   </a>
 </div>
