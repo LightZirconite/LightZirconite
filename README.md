@@ -16,7 +16,7 @@
 
 ## 💫 About Me
 
-> *"Quote that represents your philosophy or approach to coding"*
+> *"Light Zirconite"*
 
 I'm a computer enthusiast based in Senlis, FR, specializing in Linux. With 3 years of experience, I enjoy tackling complex problems and transforming ideas into elegant solutions.
 
