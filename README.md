@@ -1,7 +1,8 @@
 # 👋 Hello, World! I'm LightZirconite
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=LightZirconite&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Developer%20|%20Creator%20|%20Innovator&descAlignY=51&descAlign=62" alt="banner image">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=LightZirconite&fontSize=80&animation=fadeIn&fontAlignY=38" alt="banner image">
+  <p>Developer | Creator | Innovator</p>
 </div>
 
 <p align="center">
@@ -24,8 +25,6 @@ I'm a passionate [Your Role] based in [Your Location], focusing on [Your Special
 - 👯 I'm looking to collaborate on **[Type of Projects]**
 - 💬 Ask me about **[Your Expertise Areas]**
 - ⚡ Fun fact: **[Something Interesting About You]**
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM0MDQwMGVjM2I2ZmJmNjk4YzBiZTBhNDFmOGM0OGE0MWVlZWZmYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 Skills & Technologies
 
@@ -102,7 +101,7 @@ mindmap
 ## 🎧 Currently Listening To
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fsjiytgt7qzgkwpvqrd3gxd42u&count=3" alt="Spotify Recently Played" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31fsjiytgt7qzgkwpvqrd3gxd42u&cover_image=true&theme=default&show_offline=false&background_color=121212" alt="Spotify Currently Playing" />
 </div>
 
 ## 📝 Latest Blog Posts
