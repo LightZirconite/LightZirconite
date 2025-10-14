@@ -1,120 +1,153 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=LightZirconite&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,3,5,6,8,12,16,20,24&text=⚡%20LightZirconite%20⚡&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Developer%20•%20Creator%20•%20Linux%20Enthusiast&descSize=20&descAlignY=60" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3DFFE6&center=true&vCenter=true&width=440&lines=Developer+%7C+Creator;Linux+%26+Self-Hosting;Open+Source+Enthusiast;Building+%26+Learning" alt="Typing SVG" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-![OVH](https://img.shields.io/badge/OVH-123F6D?style=for-the-badge&logo=ovh&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-</div>
+<!-- Animated Typing Text -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&height=100&lines=Building+the+future+with+code;Self-hosting+%26+automation+expert;Open+source+enthusiast;Always+learning%2C+always+creating" alt="Typing SVG" /></a>
 
 <br>
 
----
-
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LightZirconite&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=c9d1d9&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LightZirconite&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=c9d1d9" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LightZirconite&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=LightZirconite&theme=github-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866" />
+<!-- Glowing Divider -->
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
----
+<br><br>
 
+<!-- Tech Stack with Glow Effect -->
 <div align="center">
 
-## 🏆 GitHub Trophies
+## 🔥 **TECH ARSENAL** 🔥
 
-<img src="https://github-profile-trophy.vercel.app/?username=LightZirconite&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+<br>
+
+### **Languages**
+<img src="https://skillicons.dev/icons?i=python,js,bash,html,css&theme=dark&perline=10" alt="languages" />
+
+<br><br>
+
+### **Systems & Tools**
+<img src="https://skillicons.dev/icons?i=linux,debian,git,nginx,proxmox&theme=dark&perline=10" alt="tools" />
+
+<br><br>
+
+### **Infrastructure**
+![OVH](https://img.shields.io/badge/OVH-123F6D?style=for-the-badge&logo=ovh&logoColor=white&labelColor=000000)
+![Self Hosted](https://img.shields.io/badge/Self_Hosted-FF6B6B?style=for-the-badge&logo=homeassistant&logoColor=white&labelColor=000000)
+
+<br>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
----
+<br><br>
 
+<!-- Stats Section with 3D Effect -->
 <div align="center">
 
-## 🐍 Contribution Graph
+## 📊 **GITHUB STATISTICS** 📊
+
+<br>
+
+<!-- Main Stats Card -->
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LightZirconite&show_icons=true&count_private=true&hide_border=true&title_color=00F7F7&icon_color=00F7F7&text_color=c9d1d9&bg_color=0d1117&border_radius=15" alt="LightZirconite github stats" /> 
+
+<!-- Streak Stats -->
+<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=LightZirconite&theme=react&border=61dafb&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7&border_radius=15" alt="LightZirconite github streak" />
+
+<br><br>
+
+<!-- Languages Graph -->
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LightZirconite&layout=compact&hide_border=true&title_color=00F7F7&text_color=c9d1d9&bg_color=0d1117&border_radius=15&langs_count=8" alt="LightZirconite top langs" />
+
+<!-- Activity Graph -->
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=LightZirconite&hide_border=true&title_color=00F7F7&text_color=c9d1d9&bg_color=0d1117&border_radius=15&custom_title=Coding+Activity" alt="LightZirconite coding activity" />
+
+<br><br>
+
+<!-- Full Width Activity Graph -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=LightZirconite&custom_title=Contribution%20Graph&bg_color=0d1117&color=00F7F7&line=00F7F7&point=FFFFFF&area_color=00F7F7&area=true&hide_border=true&radius=15" alt="contribution graph" />
+
+<br>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<br><br>
+
+<!-- Trophy Showcase -->
+<div align="center">
+
+## 🏆 **ACHIEVEMENTS** 🏆
+
+<br>
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=LightZirconite&theme=darkhub&no-frame=true&no-bg=true&row=2&column=6&margin-w=15&margin-h=15" alt="trophy" />
+
+<br>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<br><br>
+
+<!-- Snake Animation -->
+<div align="center">
+
+## 🐍 **CONTRIBUTION SNAKE** 🐍
+
+<br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LightZirconite/LightZirconite/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LightZirconite/LightZirconite/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/LightZirconite/LightZirconite/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LightZirconite/LightZirconite/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LightZirconite/LightZirconite/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LightZirconite/LightZirconite/output/github-contribution-grid-snake.svg">
 </picture>
 
-</div>
+<br>
 
----
-
-<div align="center">
-
-## 🎯 Focus Areas
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/server.png" width="80"/>
-      <br><strong>Self-Hosting</strong>
-      <br>Infrastructure & Services
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/linux.png" width="80"/>
-      <br><strong>Linux</strong>
-      <br>System Administration
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/code.png" width="80"/>
-      <br><strong>Development</strong>
-      <br>Web & Automation
-    </td>
-  </tr>
-</table>
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
----
+<br><br>
 
+<!-- 3D Contribution Grid -->
 <div align="center">
 
-### 🌐 Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LightZirconite)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+## 📈 **3D CONTRIBUTION CALENDAR** 📈
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=LightZirconite&color=F85D7F&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution" width="98%"/>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" />
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<br><br>
+
+<!-- Profile Views Counter with Style -->
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=LightZirconite&label=PROFILE+VIEWS&color=00F7F7&style=for-the-badge&abbreviated=true" alt="Profile views" />
+
+<br><br>
+
+<!-- Social Links -->
+<a href="https://github.com/LightZirconite">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00F7F7&labelColor=000000" alt="GitHub"/>
+</a>
+
+<br><br>
+
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,2,3,5,6,8,12,16,20,24&section=footer&animation=fadeIn" alt="footer"/>
 
 </div>
